@@ -129,7 +129,7 @@ final class Util
         '487' => 'Deutsche Bank S.A. - Banco Alemão',
         '064' => 'Goldman Sachs do Brasil Banco Múltiplo S.A.',
         '062' => 'Hipercard Banco Múltiplo S.A.',
-        '399' => 'HSBC Bank Brasil S.A.',
+        '399' => 'HSBC Brasil S.A. - Banco de Investimento',
         '492' => 'ING Bank N.V.',
         '652' => 'Itaú Unibanco Holding S.A.',
         '341' => 'Itaú Unibanco S.A.',
